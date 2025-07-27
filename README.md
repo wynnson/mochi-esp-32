@@ -1,6 +1,6 @@
-# 🥯 Dasai Mochi ESP32 Project
+# 🥯 Dasai Mochi using ESP32
 
-A cute OLED-based animation project powered by the ESP32, featuring "Dasai Mochi" — a minimalistic mascot character displayed on a 128x64 OLED screen. Built using the U8g2 graphics library.
+My Dasai Mochi. >_<
 
 ---
 
@@ -10,7 +10,6 @@ A cute OLED-based animation project powered by the ESP32, featuring "Dasai Mochi
 - Built with PlatformIO for modern ESP32 development
 - Uses U8g2 for efficient monochrome graphics rendering
 - Frame buffer control and loop timing for smooth visuals
-- Easy-to-extend architecture (add more animations or features!)
 
 ---
 
