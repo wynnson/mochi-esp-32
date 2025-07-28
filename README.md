@@ -2,6 +2,8 @@
 
 My Dasai Mochi. >_<
 
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/41777de1-74ee-47e9-89b8-b886c37179eb" />
+
 ---
 
 ## 📦 Features
@@ -19,5 +21,3 @@ My Dasai Mochi. >_<
 - 128x64 OLED display (I2C interface, SSD1306)
 - PlatformIO (or Arduino IDE with U8g2)
 - C++17 compatible toolchain
-
-<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/41777de1-74ee-47e9-89b8-b886c37179eb" />
