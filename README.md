@@ -20,3 +20,4 @@ A cute OLED-based animation project powered by the ESP32, featuring "Dasai Mochi
 - 128x64 OLED display (I2C interface, SSD1306)
 - PlatformIO (or Arduino IDE with U8g2)
 - C++17 compatible toolchain
+

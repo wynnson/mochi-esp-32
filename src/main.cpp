@@ -6206,8 +6206,8 @@ void setup() {
 }
 
 void loop() {
-  frame++;
   frame = frame % epd_bitmap_allArray_LEN;
+  frame++;
 
   u8g2.clearBuffer();
   u8g2.drawXBMP(0, 0, 128, 64, epd_bitmap_allArray[frame]);
